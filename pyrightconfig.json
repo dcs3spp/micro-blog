@@ -1,0 +1,7 @@
+{
+  "include": ["."],
+  "exclude": ["**/egg-info", "**/__pycache__"],
+  "venvPath": "/Users/simon/.pyenv/versions/3.10.6/envs/",
+  "venv": "wellfound-techtest",
+  "verboseOutput": true
+}
